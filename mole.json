@@ -264,15 +264,15 @@
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Spottedfire",
+    "icon": "imgs/mole/spottedfire.png",
+    "role": "Elder",
+    "hobbies": ["lazing around","throwing stones"],
+    "age": "160 moons",
+    "desc": "An elder that acts like she has nothing else to lose.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "PetalClan"
     }
   }
 ]

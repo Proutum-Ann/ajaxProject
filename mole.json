@@ -24,39 +24,39 @@
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Ashpoppy",
+    "icon": "imgs/mole/ashpoppy.png",
+    "role": "Healer",
+    "hobbies": ["tidying","flaunting knowledge"],
+    "age": "50 moons",
+    "desc": "The local MoleClan healer, she concerns herself not with the 'normy' members of the clan.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "N/A"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Molestream",
+    "icon": "imgs/mole/molestream.png",
+    "role": "Warrior",
+    "hobbies": ["star-gazing","training"],
+    "age": "47 moons",
+    "desc": "A raging tom-cat who stops at nothing when ripping his opponents to shreds.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "House-Cat"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Thrushbranch",
+    "icon": "imgs/mole/thrushbranch.png",
+    "role": "Warrior",
+    "hobbies": ["N/A"],
+    "age": "47 moons",
+    "desc": "Molestream's littermate, the two can often be seen spending time with each other. Not much else to note.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "House-Cat"
     }
   },
   {

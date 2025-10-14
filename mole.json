@@ -1,8 +1,278 @@
 [
   {
+    "name": "Molestar",
+    "icon": "imgs/mole/needlestar.png",
+    "role": "Leader",
+    "hobbies": ["flower-tending"],
+    "age": "36 moons",
+    "desc": "A whimpy cat who can't defend zemself for the life of zem.",
+    "aff": {
+        "current": "MoleClan",
+        "past": "N/A"
+    }
+  },
+  {
+    "name": "Liondawn",
+    "icon": "imgs/mole/liondawn.png",
+    "role": "Deputy",
+    "hobbies": ["hunting","sunbathing"],
+    "age": "68 moons",
+    "desc": "A charismatic deputy who always made his leader the butt of her jokes.",
+    "aff": {
+        "current": "MoleClan",
+        "past": "N/A"
+    }
+  },
+  {
     "name": "…",
-    "relationship": "…",
+    "icon": "imgs/.png",
+    "role": "…",
     "hobbies": ["…","…","…"],
-    "contact": { "email": "…", "instagram": "…" }
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
+  },
+  {
+    "name": "…",
+    "icon": "imgs/.png",
+    "role": "…",
+    "hobbies": ["…","…","…"],
+    "age": "...",
+    "desc": "...",
+    "aff": {
+        "current": "...",
+        "past": "..."
+    }
   }
 ]

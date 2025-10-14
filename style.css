@@ -1,0 +1,10 @@
+#load {
+    background-color: #00ffff;
+    border: outset #00a1a1;
+    transition: .5s
+}
+
+#load:hover {
+    background-color: #00a1a1;
+    border: inset #00a1a1;
+}

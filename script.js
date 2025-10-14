@@ -8,25 +8,25 @@ document.getElementById("load").addEventListener("click", function() {
 
             const cardContainer = document.getElementById('output')
 
-            cardContainer.innerHTML = ''
-
-            mole.forEach(characterM => {
+            characterM.forEach(characterM => {
                 const hobbyList = characterM.hobbies.map(
                     hobby => `<span class="badge bg-info text-dark me-1">${hobby}</span>`
                 ).join('')
 
-                const cardHTML = `
-                <div class="col-12 col-md-6 col-lg-4">
+                cardContainer.innerHTML = `
+                <div class="col-12 col-md-4 col-lg-3">
                     <div class="card shadow-sm h-100">
                         <div class="card-body">
                             <h5 class="card-title">${characterM.name}</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">${characterM.relationship}</h6>
-
+                            <h6 class="card-subtitle mb-2 text-muted">${characterM.role}</h6>
+                            <h6 class="card-subtitle mb-2 text-muted">${characterM.age}</h6>
+                            <p class="card-text">${characterM.aff.current}</p>
+                            <p class="card-text">${characterM.aff.past}</p>
                             <p class="card-text">
                                 <b>Hobbies:</b><br> ${hobbyList}
                             </p>
 
-                            <p class="card-text">Placeholder</p>
+                            <p class="card-text">${characterM.desc}</p>
                         </div>
                     </div>
                 </div>

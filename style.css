@@ -1,3 +1,8 @@
+body {
+    background-color: #ffe2ad;
+    padding-bottom: 10%;
+}
+
 #load {
     background-color: #00ffff;
     border: outset #00a1a1;
@@ -7,4 +12,17 @@
 #load:hover {
     background-color: #00a1a1;
     border: inset #00a1a1;
+}
+
+#output {
+    margin-bottom: auto;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: brown;
+    padding-top: 1%;
 }

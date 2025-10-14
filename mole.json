@@ -60,207 +60,219 @@
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Shimmerwater",
+    "icon": "imgs/mole/shimmerwater.png",
+    "role": "Warrior",
+    "hobbies": ["fishing","sleeping"],
+    "age": "50 moons",
+    "desc": "Considered one of the more relaxed members of the clan, Shimmerwater tends to stay out of trouble and keeps out of trouble.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "Rogue"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Hickorybird",
+    "icon": "imgs/mole/hickorybird.png",
+    "role": "Warrior",
+    "hobbies": ["bird-watching"],
+    "age": "76 moons",
+    "desc": "A senior warrior that has seen enough for his age. He tends to go on patrols just to watch birds.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "N/A"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Mistjaw",
+    "icon": "imgs/mole/mistjaw.png",
+    "role": "Warrior",
+    "hobbies": ["gossiping"],
+    "age": "39 moons",
+    "desc": "One of Needlestar's biggest haters, purr always finds a way to make fun of purr leader, no matter the situation.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "N/A"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Blizzardbright",
+    "icon": "imgs/mole/blizzardbright.png",
+    "role": "Warrior",
+    "hobbies": ["hunting","eating"],
+    "age": "54 moons",
+    "desc": "A well-seasoned warrior that knows a few tricks or two. Usually doesn't act out of line.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "Loner"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Blossompad",
+    "icon": "imgs/mole/blossompad.png",
+    "role": "Warrior",
+    "hobbies": ["kitsitting","art"],
+    "age": "27 moons",
+    "desc": "A young warrior that enjoys spending time taking care of the clan's youth. They seem to be good at it, so nobody really complains.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "AdderClan, Rogue, Loner"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Dewhawk",
+    "icon": "imgs/mole/dewhawk.png",
+    "role": "Warrior",
+    "hobbies": ["tree-climbing"],
+    "age": "48 moons",
+    "desc": "A tom-cat that doesn't know when to quit it! He's always up in everyone's business, it can sometimes get irritating.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "N/A"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Mintrun",
+    "icon": "imgs/mole/mintrun.png",
+    "role": "Warrior",
+    "hobbies": ["running","insect-collecting"],
+    "age": "84 moons",
+    "desc": "A she-cat that doesn't seem to talk much. Prefers to keep her peace, but wouldn't let go of a chance to have a little but of fun!",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "N/A"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Autumnnose",
+    "icon": "imgs/mole/autumnnose.png",
+    "role": "Warrior",
+    "hobbies": ["patrolling"],
+    "age": "30 moons",
+    "desc": "With a keen sense of smell, Autumnnose is the perfect candidate for a hunting patrol!",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "N/A"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Pearlnight",
+    "icon": "imgs/mole/pearlnight.png",
+    "role": "Warrior",
+    "hobbies": ["poetry"],
+    "age": "57 moons",
+    "desc": "Pearlnight's parents sure knew what name they had in mind. Named for the white spot on her head, Pearlnight's coat sure does make it look like a pearl in the night!",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "N/A"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Daisyclaw",
+    "icon": "imgs/mole/daisyclaw.png",
+    "role": "Warrior",
+    "hobbies": ["gardening","sleeping"],
+    "age": "77 moons",
+    "desc": "A formidable warrior, Daisyclaw always brings victory to the battles he leads!",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "WrenClan, Loner"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Mosspaw",
+    "icon": "imgs/mole/mosspaw.png",
+    "role": "Apprentice",
+    "hobbies": ["N/A"],
+    "age": "9 moons",
+    "desc": "A young apprentice that's doing everything in their power to become a great warrior. Curious and persistent, he's sure to win some hearts!",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "N/A"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Brightbounce",
+    "icon": "imgs/mole/brightbounce.png",
+    "role": "Queen",
+    "hobbies": ["stargazing","list-making"],
+    "age": "93 moons",
+    "desc": "A permanent den-mother of the clan, she's rather easy-going and often lets the kits get too rough. Her clanmates have tried to urge her back to warrior duties, but she simply won't budge.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "Rogue"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Moonwater",
+    "icon": "imgs/mole/moonwater.png",
+    "role": "Queen",
+    "hobbies": ["moon-bathing", "sleeping"],
+    "age": "85 moons",
+    "desc": "Often called 'Moonwatcher', Moonwater enjoys basking in the moonlight. She takes on a motherly role with Pearlnight after her parents perished in battle.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "N/A"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
+    "name": "Brightmask",
+    "icon": "imgs/mole/brightmask.png",
+    "role": "Queen",
+    "hobbies": ["exercising","jogging", "kitsitting"],
     "age": "...",
-    "desc": "...",
+    "desc": "A young mother that had just come to MoleClan as refuge. She gets along well with the other den-parents and kits.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "AdderClan"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Badgerkit",
+    "icon": "imgs/mole/badgerkit.png",
+    "role": "Kit",
+    "hobbies": ["playing pretend"],
+    "age": "4 moons",
+    "desc": "Littermate of Leopardkit, Badgerkit likes to roughhouse and cause trouble around the nursery.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "Loner"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Leopardkit",
+    "icon": "imgs/mole/leopardkit.png",
+    "role": "Kit",
+    "hobbies": ["N/A"],
+    "age": " 4 moons",
+    "desc": "Littermate of Badgerkit, Leopardkit prefers to play softer games that don't require much effort.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "Loner"
     }
   },
   {
-    "name": "…",
-    "icon": "imgs/.png",
-    "role": "…",
-    "hobbies": ["…","…","…"],
-    "age": "...",
-    "desc": "...",
+    "name": "Sandykit",
+    "icon": "imgs/mole/sandykit.png",
+    "role": "Kit",
+    "hobbies": ["sleeping"],
+    "age": "2 moons",
+    "desc": "Just a little baby, doesn't really do much.",
     "aff": {
-        "current": "...",
-        "past": "..."
+        "current": "MoleClan",
+        "past": "Loner"
+    }
+  },
+  {
+    "name": "Fernkit",
+    "icon": "imgs/mole/fernkit.png",
+    "role": "Kit",
+    "hobbies": ["N/A"],
+    "age": "3 moons",
+    "desc": "A she-kit that had a mysterious eye injury from before joining the clan. Good playmates with Sandykit, seems to be familiar with Badgerkit.",
+    "aff": {
+        "current": "MoleClan",
+        "past": "Loner"
     }
   },
   {

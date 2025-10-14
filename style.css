@@ -1,21 +1,49 @@
 body {
     background-color: #ffe2ad;
     padding-bottom: 10%;
+    font-family: "aquavit", sans-serif!important;
 }
 
 #load {
-    background-color: #00ffff;
-    border: outset #00a1a1;
-    transition: .5s
+    background-color: #a52a2a;
+    border: outset #851010;
+    transition: .5s;
+    border-radius: 10px;
+    color: #ffe2ad;
 }
 
 #load:hover {
-    background-color: #00a1a1;
-    border: inset #00a1a1;
+    background-color: #851010;
+    border: inset #851010;
 }
 
 #output {
     margin-bottom: auto;
+}
+
+.badge {
+    background-color: #7eff7e;
+}
+
+.card {
+    border: none!important;
+    color: #300e04!important
+}
+
+.card-subtitle {
+    color: rgba(48, 14, 4, .7)!important
+}
+
+.card-body {
+    transition: .5s;
+    border: none;
+    border-radius: 10px!important;
+}
+
+.card-body:hover {
+    transform: scale(1.1);
+    filter: drop-shadow(0 0 10px rgba(206, 144, 94, 0.5));
+    z-index: 5;
 }
 
 footer {
@@ -25,4 +53,18 @@ footer {
     width: 100%;
     background-color: brown;
     padding-top: 1%;
+    z-index: 10;
+}
+
+.footer-link {
+    color: #fff
+}
+
+.footer-link a {
+    color: #fff;
+    transition: .5s;
+}
+
+.footer-link a:hover {
+    color: rgb(255, 217, 94);
 }

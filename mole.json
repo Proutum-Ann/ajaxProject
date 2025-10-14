@@ -192,8 +192,8 @@
     }
   },
   {
-    "name": "Brightbounce",
-    "icon": "imgs/mole/brightbounce.png",
+    "name": "Brightpounce",
+    "icon": "imgs/mole/brightpounce.png",
     "role": "Queen",
     "hobbies": ["stargazing","list-making"],
     "age": "93 moons",
@@ -220,7 +220,7 @@
     "icon": "imgs/mole/brightmask.png",
     "role": "Queen",
     "hobbies": ["exercising","jogging", "kitsitting"],
-    "age": "...",
+    "age": "31 moons",
     "desc": "A young mother that had just come to MoleClan as refuge. She gets along well with the other den-parents and kits.",
     "aff": {
         "current": "MoleClan",

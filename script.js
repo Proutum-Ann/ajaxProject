@@ -14,36 +14,54 @@ document.getElementById("load").addEventListener("click", function() {
             characterM.forEach(c => {
 
                 const hobbyList = c.hobbies.map(
-                    hobby => `<span class="badge bg-info text-dark me-1" style="font-size: x-small">${hobby}</span>`
+                    hobby => `<span class="badge text-dark me-1">${hobby}</span>`
                 ).join('')
+
+                if (c.role === "Leader") {
+                    c.bg = '#adffe7'
+                } else if (c.role === "Deputy") {
+                    c.bg = '#57b5e0'
+                } else if (c.role === "Healer") {
+                    c.bg = '#45d368'
+                } else if (c.role === "Warrior") {
+                    c.bg = '#d34563'
+                } else if (c.role === "Apprentice") {
+                    c.bg = '#e0578b'
+                } else if (c.role === "Queen") {
+                    c.bg = '#c957e0'
+                } else if (c.role === "Kit") {
+                    c.bg = '#ffa7e5'
+                } else if (c.role === "Elder") {
+                    c.bg = '#867658'
+                }
 
                 const cardHTML = document.createElement('div')
                 cardHTML.classList = "col-6 col-md-4 col-lg-3 my-2"
 
                 cardHTML.innerHTML = `
                     <div class="card shadow-sm h-100">
-                        <div class="card-body">
+                        <div class="card-body" style="background-color: ${c.bg}">
                             <div class="row">
-                                <div class="col-md-5">
+                                <div class="col-md-6">
                                     <img class="w-100" src="${c.icon}">
 
-                                    <p class="card-text w-100">
-                                        <b>Hobbies:</b><br> ${hobbyList}
-                                    </p>
                                 </div>
-                                <div class="col-md-7">
+                                <div class="col-md-6">
 
                                     <h5 class="card-title">${c.name}</h5>
-                                    <h6 class="card-subtitle mb-2 text-muted">${c.role}</h6>
-                                    <h6 class="card-subtitle mb-2 text-muted">${c.age}</h6>
+                                    <h6 class="card-subtitle mb-2">${c.role}</h6>
+                                    <h6 class="card-subtitle mb-2">${c.age}</h6>
 
-                                    <p class="card-text" style="font-size: small">
-                                        <b>Current:</b><br> ${c.aff.current}<br>
-                                        <b>Past:</b><br> ${c.aff.past}
+                                    <p class="card-text">
+                                        <b>Current:</b> ${c.aff.current}<br>
+                                        <b>Past:</b> ${c.aff.past}
                                     </p>
 
                                 </div>
                             </div>
+                            <p class="card-text w-100">
+                                <b>Hobbies:</b><br> ${hobbyList}
+                            </p>
 
                             <p class="card-text">${c.desc}</p>
                         </div>

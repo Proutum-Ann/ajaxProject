@@ -22,6 +22,7 @@ document.getElementById("load").addEventListener("click", function() {
                             <h6 class="card-subtitle mb-2 text-muted">${characterM.age}</h6>
                             <p class="card-text">${characterM.aff.current}</p>
                             <p class="card-text">${characterM.aff.past}</p>
+                            
                             <p class="card-text">
                                 <b>Hobbies:</b><br> ${hobbyList}
                             </p>

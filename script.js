@@ -36,7 +36,7 @@ document.getElementById("load").addEventListener("click", function() {
                 }
 
                 const cardHTML = document.createElement('div')
-                cardHTML.classList = "col-6 col-md-4 col-lg-3 my-2"
+                cardHTML.classList = "col-6 col-md-4 col-xl-3 my-2"
 
                 cardHTML.innerHTML = `
                     <div class="card shadow-sm h-100">
